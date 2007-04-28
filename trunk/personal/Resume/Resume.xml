@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE resume PUBLIC "-//Sean Kelly//DTD Resume 1.5.1//EN"
+  "http://xmlresume.sourceforge.net/dtd/resume.dtd">
+
+<resume id="Resume.Matt.Katz" xmlns="http://xmlresume.sourceforge.net/resume/0.0">
+ 
+  <header>
+    <name id="Matt.Katz">
+      <firstname>Matthew</firstname>
+      <surname>Katz</surname>
+    </name>
+    <address>
+      <street>147 Amity St, Apt 1</street>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zip>11201</zip>
+      <country>U.S.A.</country>
+    </address>
+    <contact>
+      <phone location="home">+1-646-285-3817</phone>
+      <email>snarkhunt@gmail.com</email>
+    </contact>
+  </header>
+
+  <objective targets="developer">
+    <para>To produce software I can be proud of.  It should be ipod simple.
+    </para>
+  </objective>
+
+  <skillarea targets="developer">
+    <title>Languages</title>
+    <skillset>
+      <title>C#</title>
+      <skill>.net Libraries</skill>
+    </skillset>
+  </skillarea>
+
+  <skillarea targets="compsci">
+    <title>Computer Skills</title>
+    <skillset>
+      <skill targets="sysadmin">Perl</skill>
+      <skill targets="java">J2EE</skill>
+      <skill targets="java">XML Parsing</skill>
+ <!-- This applies to all CompSci, so there's no separate target -->
+      <skill>Debugging</skill>
+    </skillset>
+  </skillarea>
+
+
+  <history>
+    <job targets="developer" id="DataClean">
+      <jobtitle>Software Developer</jobtitle>
+      <employer>University of South Carolina Computer Services Department</employer>
+      <location>
+        <city>Columbia</city>
+        <state>SC</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>June</month>
+            <year>2000</year>
+          </date>
+        </from>
+        <to>
+          <date>
+            <month>January</month>
+            <year>2001</year>
+          </date>
+        </to>
+      </period>
+      <description>
+        <para>The University was moving it's alumni information from mainframe storage to a relational database.  I wrote datacleaning scripts to ferret out inconsistent and improbable data patterns.</para>
+      </description>
+      <projects>
+        <project targets="developer" title="Data Cleaning">Wrote sql scripts to find unusual data for review and PowerBuilder frontends to display results to users</project>
+      </projects>
+      <achievements>
+        <achievement>Reduced mailing costs and increased data integrity.</achievement>
+      </achievements>
+    </job>
+    <job targets="developer" id="UmaDev">
+      <jobtitle>Software Developer</jobtitle>
+      <employer>Sungard Data Systems</employer>
+      <location>
+        <city>Rochester</city>
+        <state>NY</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>January</month><!-- Check to make sure this is accurate -->
+            <year>2001</year>
+          </date>
+        </from>
+        <to>
+          <date>
+            <month>March</month>
+            <year>2002</year>
+          </date>
+        </to>
+      </period>
+    </job>
+    <job>
+      <jobtitle targets="support,management">Trade Support Analyst</jobtitle>
+      <employer>UBS</employer>
+      <location>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>March</month>
+            <year>2002</year>
+          </date>
+        </from>
+        <to>
+          <date>
+            <month>March</month>
+            <year>2004</year>
+          </date>
+        </to>
+      </period>
+    </job>
+    <job>
+      <jobtitle>Software Developer</jobtitle>
+      <employer>Banc of America Securities Prime Brokerage<url>http://www.primebroker.com</url>
+    </employer>
+      <location>
+        <city>New York</city>
+        <state>NY</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>April</month>
+            <year>2004</year>
+          </date>
+        </from>
+        <to>
+          <present/>
+        </to>
+      </period>
+      <projects>
+        <project>User Experience Design for Real Time PNL 2</project>
+        <project>Quick Trade Monitor</project>
+        <project>Support Queries Page</project>
+        <project>Designed the first package Deployment System used to build our staging, production and development environments.</project>
+      </projects>
+    </job>
+  </history>
+
+  <memberships>
+    <title></title>
+    <membership>
+    </membership>
+  </memberships>
+
+  <awards><title>Honors and Recognition</title>
+    <award targets="developer"><title>Best Chatbot - UBS Global Equities</title>
+      <description>
+        <para>To further the use of internal chat software, UBS created a contest for work related chatbots.</para> 
+        <para>My IRC bot was used by the program trading team to monitor the progress of sensitive VWAP trades.  It connected to the backends of multiple trading systems, alerting traders and support staff of problems.  This bot freed up 1 full support staff.</para>
+      </description>
+    </award>    
+  </awards>
+
+
+
+
+  <misc>
+    <para>This r&eacute;sum&eacute; is composed in resumeML. <emphasis>One</emphasis> source file can be processed through various XSL transforms to produce many output formats.</para>
+  </misc>
+
+  <academics>
+    <degrees>
+      <degree>
+	<level>B.S.</level>
+	<major>Computer Science</major>
+	<date>
+	  <month>December</month>
+	  <year>2000</year>
+	</date>
+	<institution>Univeristy of South Carolina</institution>
+        <gpa type="major">
+          <score> 3.9</score>
+        </gpa>
+      </degree>
+    </degrees>
+  </academics>
+
+  <pubs>
+    <pub></pub>
+  </pubs>
+
+  <interests>
+    <title>Interests</title>
+    <interest>
+      <title>Debate</title>
+      <description>
+        <para>High School State Champion, College SEC JV Champion, CEDA</para>
+      </description>
+    </interest>
+  
+  </interests>
+
+  <referees>
+    <referee>
+      <name>
+	<firstname>Dave</firstname>
+	<surname>Neigler</surname>
+      </name>
+      <title>Development Manager</title>
+      <organization>SAC Capital</organization>
+      <contact>
+	<phone>917.710.1214</phone>
+        <email>dneigler@gmail.com</email>
+        <url>http://snappynat.com/blog</url>
+	    </contact>
+    </referee>
+    <referee>
+      <name>
+      	<firstname>Chris</firstname>
+      	<surname>Acton</surname>
+      </name>
+      <title>Developer</title>
+      <organization>Sungard Data Systems
+      </organization>
+      <contact>
+        <phone>585.843.8472</phone>
+      </contact>
+    </referee>
+    <!-- Add in John Vivenzio, Phil Sicard, Dan Pense, Phil Little, Jamie McDonald, Bill Soudan-->
+  </referees>
+</resume>
