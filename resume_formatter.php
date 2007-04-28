@@ -1,22 +1,18 @@
 <?php
+//what style is passed on the querystring?
 $style = $_GET['style'];
-$stringOut = 'try choosing a query style';
+//load up the resume
 $xml_doc = new DOMDocument;
 $xml_doc->load('./Matt.Katz.Resume.xml');
 $xp = new XsltProcessor();
-// create a DOM document and load the XSL stylesheet
-$xsl = new DomDocument;
 
-//if(0 == $style){
-	//send xml
-//	header('Content-Type: text/xml');
-//	$stringOut = $xml_doc->saveXML();
-//}
+// create a DOM document for   the XSL stylesheet
+$xsl = new DomDocument;
 
 if($style == 'html')
 {
-		//send html
-		$xsl->load('./xsl/output/us-html.xsl');
+	//send html
+	$xsl->load('./xsl/output/us-html.xsl');
 }
 elseif('text' == $style)
 {
@@ -28,17 +24,20 @@ elseif('xml' == $style)
 {
 	//send xml
 	header('Content-Type: text/xml');
-	//$stringOut = $xml_doc->saveXML();
+	//this is an identity stylesheet just to keep the code clean
+	//if you were going for speed you'd just output xml and skip this transform step
+	$xsl->load('./xsl/output/identity.xsl');
+}
+else
+{
+	//send xml, but without a content type
 	$xsl->load('./xsl/output/identity.xsl');
 }
 
-
-
-
 // import the XSL styelsheet into the XSLT process
 $xp->importStylesheet($xsl);
-$stringOut = $xp->transformToXML($xml_doc);
+$formattedString = $xp->transformToXML($xml_doc);
 
-//$stringOut = $style;
-echo $stringOut;
+//send the formatted string to the buffer!
+echo $formattedString;
 ?>
