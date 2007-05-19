@@ -36,16 +36,18 @@
           <skill>C++</skill>
           <skill>PERL</skill>
           <skill>JavaScript</skill>
-          <skill></skill>
+          <skill>XML</skill>
+          <skill>XSK</skill>
         </skills>
-        <title>C#</title>
-        <skill>.net Libraries</skill>
       </skillset>
     </skillarea>
     <skillarea>
       <title>GUI Design</title>
       <skillset>
-        <sk
+        <skills>
+          <skill>Graphical Display of Quantitative Information training from <link href="http://wwww.edwardetufte.com">Edward Tufte</link></skill>
+          <skill>User Experience Design</skill>
+        </skills>  
       </skillset>
     </skillarea>
 
