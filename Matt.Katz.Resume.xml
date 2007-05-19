@@ -26,25 +26,42 @@
     <para>To produce software I can be proud of.  It should be ipod simple.
     </para>
   </objective>
+  <skillareas>
+    <skillarea targets="developer">
+      <title>Languages</title>
+      <skillset>
+        <skills>
+          <skill level="Senior">C#</skill>
+          <skill>.Net</skill>
+          <skill>C++</skill>
+          <skill>PERL</skill>
+          <skill>JavaScript</skill>
+          <skill></skill>
+        </skills>
+        <title>C#</title>
+        <skill>.net Libraries</skill>
+      </skillset>
+    </skillarea>
+    <skillarea>
+      <title>GUI Design</title>
+      <skillset>
+        <sk
+      </skillset>
+    </skillarea>
 
-  <skillarea targets="developer">
-    <title>Languages</title>
-    <skillset>
-      <title>C#</title>
-      <skill>.net Libraries</skill>
-    </skillset>
-  </skillarea>
+    <skillarea targets="compsci">
+      <title>Computer Skills</title>
+      <skillset>
+        <skill targets="sysadmin">Perl</skill>
+        <skill targets="java">J2EE</skill>
+        <skill targets="java">XML Parsing</skill>
+        <!-- This applies to all CompSci, so there's no separate target -->
+        <skill>Debugging</skill>
+      </skillset>
+    </skillarea>
+  </skillareas>
 
-  <skillarea targets="compsci">
-    <title>Computer Skills</title>
-    <skillset>
-      <skill targets="sysadmin">Perl</skill>
-      <skill targets="java">J2EE</skill>
-      <skill targets="java">XML Parsing</skill>
- <!-- This applies to all CompSci, so there's no separate target -->
-      <skill>Debugging</skill>
-    </skillset>
-  </skillarea>
+ 
 
 
   <history>
@@ -100,6 +117,18 @@
           </date>
         </to>
       </period>
+      <description>
+        <para>SDS produced the Universal Market Access (UMA) system, NASDAQ Market Maker software that processed up to 70% of the volume of the <link href="http://www.opengroup.org/motif/">NASDAQ</link>.</para>
+        <para>All development was done in C/C++, the frontend was <link href="http://www.opengroup.org/motif/">MOTIF</link></para>
+      </description>
+      <projects>
+        <project title="Drip Orders">Drip Orders allowed market makers to drip large orders out to the market in small timed chunks to avoid moving the market.</project>
+        <project title="Stability Project">SDS had expanded their developer group very quickly.  Growth pains had led to spaghetti code and increasing system instability.  I led a small team to find and eliminate the instability.</project>
+        <project title="Time in Force">TIF issues on orders had grown more complicated and traders sought more sophisticated TIF options.  Worked with other developers to redesign the TIF code to be more extensible and handle new options with minimal development.</project>
+      </projects>
+      <achievements>
+        <achievement>Increased core stability of the system, hunting down the top instability issues.</achievement>
+      </achievements>
     </job>
     <job>
       <jobtitle targets="support,management">Trade Support Analyst</jobtitle>
@@ -125,8 +154,7 @@
     </job>
     <job>
       <jobtitle>Software Developer</jobtitle>
-      <employer>Banc of America Securities Prime Brokerage<url>http://www.primebroker.com</url>
-    </employer>
+      <employer><link href="http://www.primebroker.com">Banc of America Securities Prime Brokerage</link></employer>
       <location>
         <city>New York</city>
         <state>NY</state>
@@ -142,20 +170,22 @@
           <present/>
         </to>
       </period>
+      <description>
+        <para>The BofA PrimeBrokerage has been consistently ranked #1 in technology among PB's by Hedge Fund Advisor's Magazine.</para>
+        <para>When I arrived it was integrating with the bank and developers were doing the majority of the support work.</para>
+      </description>
       <projects>
         <project>User Experience Design for Real Time PNL 2</project>
         <project>Quick Trade Monitor</project>
         <project>Support Queries Page</project>
         <project>Designed the first package Deployment System used to build our staging, production and development environments.</project>
       </projects>
+      <achievements>
+        <achievement>Initiated the project to turn Trade Process Monitoring and End of Day shutdown over to support staff. Developers were responsible for both tasks.</achievement>
+        <achievement>Created support queries site that allowed developers to quickly turn over DB based supprt tasks to support staff.</achievement>
+      </achievements>
     </job>
   </history>
-
-  <memberships>
-    <title></title>
-    <membership>
-    </membership>
-  </memberships>
 
   <awards><title>Honors and Recognition</title>
     <award targets="developer"><title>Best Chatbot - UBS Global Equities</title>
@@ -170,7 +200,7 @@
 
 
   <misc>
-    <para>This r&eacute;sum&eacute; is composed in resumeML. <emphasis>One</emphasis> source file can be processed through various XSL transforms to produce many output formats.</para>
+    <para>This r&eacute;sum&eacute; is composed in <link href="http://xmlresume.sourceforge.net">resume xml</link>. <emphasis>One</emphasis> source file can be processed through various XSL transforms to produce many output formats.</para>
   </misc>
 
   <academics>
@@ -185,14 +215,13 @@
 	<institution>Univeristy of South Carolina</institution>
         <gpa type="major">
           <score> 3.9</score>
+          <note>
+            <para>In major with weighting for honors courses.</para>
+          </note>
         </gpa>
       </degree>
     </degrees>
   </academics>
-
-  <pubs>
-    <pub></pub>
-  </pubs>
 
   <interests>
     <title>Interests</title>
