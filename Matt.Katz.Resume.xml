@@ -38,6 +38,7 @@
           <skill>JavaScript</skill>
           <skill>XML</skill>
           <skill>XSK</skill>
+          <skill>VS 2005</skill>
         </skills>
       </skillset>
     </skillarea>
@@ -153,6 +154,10 @@
           </date>
         </to>
       </period>
+      <projects>
+        <project title="Deployment System">The A4 trading system deployments were done by hand, taking hours.  I found the common components and produced an automatic deployment/rollback system written in PERL</project>
+        <project title="Program Trading Monitor">While developers worked to increase stability, I wrote a system to monitor all endpoints and report inconsistencies in trade flow.  This meant traders didn't have to hear about problems from clients, the support team could anticipate the problems.</project>
+      </projects>
     </job>
     <job>
       <jobtitle>Software Developer</jobtitle>
