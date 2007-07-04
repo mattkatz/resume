@@ -26,11 +26,9 @@
     <para>To produce software I can be proud of.  It should be ipod simple.
     </para>
   </objective>
-  <skillareas>
     <skillarea targets="developer">
       <title>Languages</title>
       <skillset>
-        <skills>
           <skill level="Senior">C#</skill>
           <skill>.Net</skill>
           <skill>C++</skill>
@@ -39,33 +37,15 @@
           <skill>XML</skill>
           <skill>XSK</skill>
           <skill>VS 2005</skill>
-        </skills>
       </skillset>
     </skillarea>
     <skillarea>
       <title>GUI Design</title>
       <skillset>
-        <skills>
           <skill>Graphical Display of Quantitative Information training from <link href="http://wwww.edwardetufte.com">Edward Tufte</link></skill>
-          <skill>User Experience Design</skill>
-        </skills>  
+          <skill>User Experience Design</skill>  
       </skillset>
     </skillarea>
-
-    <skillarea targets="compsci">
-      <title>Computer Skills</title>
-      <skillset>
-        <skill targets="sysadmin">Perl</skill>
-        <skill targets="java">J2EE</skill>
-        <skill targets="java">XML Parsing</skill>
-        <!-- This applies to all CompSci, so there's no separate target -->
-        <skill>Debugging</skill>
-      </skillset>
-    </skillarea>
-  </skillareas>
-
- 
-
 
   <history>
     <job targets="developer" id="DataClean">
@@ -208,7 +188,7 @@
 
 
   <misc>
-    <para>This r&eacute;sum&eacute; is composed in <link href="http://xmlresume.sourceforge.net">resume xml</link>. <emphasis>One</emphasis> source file can be processed through various XSL transforms to produce many output formats.</para>
+    <para>This resume is composed in <link href="http://xmlresume.sourceforge.net">resume xml</link>. <emphasis>One</emphasis> source file can be processed through various XSL transforms to produce many output formats.</para>
   </misc>
 
   <academics>
