@@ -90,7 +90,7 @@
         </to>
       </period>
       <description>
-        <para>The University was moving it's alumni information from mainframe storage to a relational database.  I wrote datacleaning scripts to ferret out inconsistent and improbable data patterns.</para>
+        <para>The University was moving its alumni information from mainframe storage to a relational database.  I wrote datacleaning scripts to ferret out inconsistent and improbable data patterns.</para>
       </description>
       <projects>
         <project targets="developer" title="Data Cleaning">Wrote sql scripts to find unusual data for review and PowerBuilder frontends to display results to users</project>
@@ -194,6 +194,7 @@
     </job>
   </history>
 
+  
   <awards><title>Honors and Recognition</title>
     <award targets="developer"><title>Best Chatbot - UBS Global Equities</title>
       <description>
