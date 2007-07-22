@@ -23,7 +23,7 @@
   </header>
 
   <objective targets="developer">
-    <para>To produce software I can be proud of.  It should be ipod simple.</para>
+    <para>To write financial software with the power of a Bloomberg, but the easy simplicity of an iPod.</para>
   </objective>
     <skillarea targets="developer">
       <title>Languages</title>
@@ -51,7 +51,7 @@
 
   <history>    
     <job>
-      <jobtitle>Software Developer</jobtitle>
+      <jobtitle>Associate Vice President</jobtitle>
       <employer><link href="http://www.primebroker.com">Banc of America Securities Prime Brokerage</link></employer>
       <location>
         <city>New York</city>
