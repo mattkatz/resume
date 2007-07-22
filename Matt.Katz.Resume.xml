@@ -18,13 +18,12 @@
     </address>
     <contact>
       <phone location="home">+1-646-285-3817</phone>
-      <email>snarkhunt@gmail.com</email>
+      <email>resume@MoreLightMoreLight.com</email>
     </contact>
   </header>
 
   <objective targets="developer">
-    <para>To produce software I can be proud of.  It should be ipod simple.
-    </para>
+    <para>To produce software I can be proud of.  It should be ipod simple.</para>
   </objective>
     <skillarea targets="developer">
       <title>Languages</title>
@@ -35,7 +34,10 @@
           <skill>PERL</skill>
           <skill>JavaScript</skill>
           <skill>XML</skill>
-          <skill>XSK</skill>
+          <skill>XSL</skill>
+          <skill>Ruby on Rails</skill>
+          <skill>PHP</skill>
+          <skill>SQL</skill>
           <skill>VS 2005</skill>
       </skillset>
     </skillarea>
@@ -68,10 +70,10 @@
       </period>
       <description>
         <para>The BofA PrimeBrokerage has been consistently ranked #1 in technology among PB's by Hedge Fund Advisor's Magazine.</para>
-        <para>When I arrived it was integrating with the bank and developers were doing the majority of the support work.</para>
+        <para>When I arrived developers were doing support work daily.  I helped build the tools for the helpdesk, a weekly support rotation, and enabled the developers to get back to development.</para>
       </description>
       <projects>
-        <project>User Experience Design for Real Time PNL 2</project>
+        <project>Real Time PNL 2</project>
         <project>Quick Trade Monitor</project>
         <project>Support Queries Page</project>
         <project>Designed the first package Deployment System used to build our staging, production and development environments.</project>
