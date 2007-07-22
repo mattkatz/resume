@@ -73,7 +73,8 @@
   <history>    
     <job>
       <jobtitle>Associate Vice President</jobtitle>
-      <employer>Bank of America</employer>
+      <employer>
+        <link href="http://www.bankofamerica.com">Bank of America</link></employer>
       <location>
         <city>New York</city>
         <state>NY</state>
@@ -102,14 +103,11 @@
         <project title="Extended Trade File Import System">Built out support for Ezecastle, High Velocity Trading and other formats, built UAT environment, wrote client documentation package for this C# server that imported client trades to SQL Server.</project>
         <project title="Wrote Extensible Trade Export System">Aspx page that used stored procedures to pull data into XML transform it to client's expectations using XSL.</project>
       </projects>
-      <achievements>
-        <achievement>Initiated the project to turn Trade Process Monitoring and End of Day shutdown over to support staff. Developers were responsible for both tasks.</achievement>
-        <achievement>Created support queries site that allowed developers to quickly turn over DB based supprt tasks to support staff.</achievement>
-      </achievements>
     </job>
     <job>
       <jobtitle targets="support,management">Trade Support Analyst</jobtitle>
-      <employer>UBS</employer>
+      <employer>
+        <link href="http://www.ibb.ubs.com/">UBS</link></employer>
       <location>
         <city>Stamford</city>
         <state>Connecticut</state>
@@ -132,13 +130,13 @@
         <para>Software developer and trade support analyst for equities trading client connectivity team on the world's <emphasis>largest</emphasis> trading floor.</para>
       </description>
       <projects>
-        <project title="Created Program Trading Monitor">IRC and PERL bot that monitored 2 databases for Program Trading desk.</project>
+        <project title="Created Program Trading Monitor">IRC and PERL bot that monitored multiple databases for Program Trading desk.</project>
         <project title="Created Trading Deployment System">PERL system to do deployments and intraday 1 second failovers for the A4 high velocity trading system.</project>
         <project title="Supported 400 Equities Traders">From hardware to network to software to FIX messages.  Responsible for client to market trade flow.</project>
       </projects>
       <achievements>
         <achievement>
-          <emphasis >Best Chatbot - UBS Global Equities</emphasis>. To further the use of internal chat software, UBS created a contest for work related chatbots. My IRC bot was used by the program trading team to monitor the progress of sensitive VWAP trades.  It connected to the backends of multiple trading systems, alerting traders and support staff of problems.  This bot freed up 1 full support staff.
+          Won award: "<emphasis>Best Chatbot - UBS Global Equities</emphasis>" for interactive program trading flow monitor bot.
         </achievement>
       </achievements>
     </job>
