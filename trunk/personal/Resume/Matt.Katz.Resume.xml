@@ -26,8 +26,9 @@
     <para>To write financial software with the power of a Bloomberg, but the easy simplicity of an iPod.</para>
   </objective>
     <skillarea targets="developer">
-      <title>Languages</title>
+      <title>Programming</title>
       <skillset>
+        <title>Languages</title>
           <skill level="Senior">C#</skill>
           <skill>.Net</skill>
           <skill>C++</skill>
@@ -38,17 +39,37 @@
           <skill>Ruby on Rails</skill>
           <skill>PHP</skill>
           <skill>SQL</skill>
-          <skill>VS 2005</skill>
       </skillset>
-    </skillarea>
-    <skillarea>
-      <title>GUI Design</title>
       <skillset>
-          <skill>Graphical Display of Quantitative Information training from <link href="http://wwww.edwardetufte.com">Edward Tufte</link></skill>
-          <skill>User Experience Design</skill>  
+        <title>Tools</title>
+        <skill>SQL Server</skill>
+        <skill>VS 2005</skill>
+        <skill>XML Spy</skill>
+      </skillset>
+      <skillset>
+        <title>GUI Design</title>
+        <skill>
+          Graphical Display of Quantitative Information training from <link href="http://wwww.edwardetufte.com">Edward Tufte</link>
+        </skill>
+        <skill>User Experience Design</skill>
       </skillset>
     </skillarea>
-
+  <skillarea>
+    <title>Financial Sector</title>
+    <skillset>
+      <title>Experience in</title>
+      <skill>FIX</skill>
+      <skill>Equities</skill>
+      <skill>Derivitatives</skill>
+      <skill>Fixed Income</skill>
+      <skill>Front Office Flow</skill>
+      <skill>Trading Systems</skill>
+      <skill>Back Office Booking and Reconciliation</skill>
+      <skill>Client Interaction</skill>
+      <skill>Trader Interaction</skill>
+      <skill>Trading Floor Experience</skill>
+    </skillset>
+  </skillarea>
   <history>    
     <job>
       <jobtitle>Associate Vice President</jobtitle>
@@ -70,14 +91,14 @@
       </period>
       <description>
         <para>
-          Software developer for the <link href="http://www.primebroker.com">BofA Securities Prime Brokerage</link>, which has been consistently ranked #1 in technology among PB's by Hedge Fund Advisor's Magazine.</para>
+          Software developer for the <link href="http://www.primebroker.com">BofA Securities Prime Brokerage</link>, which has been consistently ranked #1 in technology among PB's in the <link href="http://home.globalcustodian.com">Global Custodian Prime Brokerage Survey</link>.</para>
       </description>
       <projects>
-        <project>Created Real Time PNL 2 - Excel front end VSTO C# .Net system that provides real time profit and loss changes to hedge fund clients</project>
-        <project>Initiated, Created and Released Quick Trade Monitor - support tool for help desk to monitor EOD trade files.</project>
-        <project>Initiated, Created and Evangelized Support Queries Page - simple aspx page that reduced developer support time by 80%.</project>
-        <project>Designed the first package Deployment System used to build our staging, production and development environments.</project>
-        <project>Extended Trade File Import System - built out support for Ezecastle, High Velocity Trading and other formats, built UAT environment, wrote client documentation package.</project>
+        <project title="Created Real Time PNL 2">Excel front end VSTO C# .Net system that provides real time profit and loss changes to hedge fund clients.</project>
+        <project title="Initiated, Created and Released Quick Trade Monitor">Support tool for help desk to monitor EOD trade files using a Windows Forms GUI and webservices.</project>
+        <project title="Initiated, Created and Evangelized Support Queries Page">Simple aspx page that reduced developer support time by 80%.</project>
+        <project title="Created Deployment System">Used to build our staging, production and development environments from automatically built MSI files.</project>
+        <project title="Extended Trade File Import System">Built out support for Ezecastle, High Velocity Trading and other formats, built UAT environment, wrote client documentation package for this C# server that imported client trades to SQL Server.</project>
       </projects>
       <achievements>
         <achievement>Initiated the project to turn Trade Process Monitoring and End of Day shutdown over to support staff. Developers were responsible for both tasks.</achievement>
@@ -105,14 +126,19 @@
           </date>
         </to>
       </period>
+      <description>
+        <para>Software developer and trade support analyst for equities trading client connectivity team on the world's <emphasis>largest</emphasis> trading floor.</para>
+      </description>
       <projects>
-        <project title="Deployment System">The A4 trading system deployments were done by hand, taking hours.  I found the common components and produced an automatic deployment/rollback system written in PERL</project>
-        <project title="Program Trading Monitor">While developers worked to increase stability, I wrote a system to monitor all endpoints and report inconsistencies in trade flow.  This meant traders didn't have to hear about problems from clients, the support team could anticipate the problems.</project>
+        <project title="Created Trading Deployment System">PERL system to do deployments and intraday 1 second failovers for the A4 high velocity trading system.</project>
+        <project title="Created Program Trading Monitor">IRC and PERL bot that monitored 2 databases for Program Trading desk.</project>
+        <project title="Supported 400 Equities Traders">From hardware to network to software to FIX messages.  Responsible for client to market trade flow.</project>
       </projects>
     </job>
     <job targets="developer" id="UmaDev">
       <jobtitle>Software Developer</jobtitle>
-      <employer>Sungard Data Systems</employer>
+      <employer>
+        <link href="http://www.sungard.com/financial/">Sungard Data Systems</link></employer>
       <location>
         <city>Rochester</city>
         <state>NY</state>
@@ -132,12 +158,12 @@
         </to>
       </period>
       <description>
-        <para>SDS produced the Universal Market Access (UMA) system, NASDAQ Market Maker software that processed up to 70% of the volume of the <link href="http://www.opengroup.org/motif/">NASDAQ</link>.</para>
+        <para>Software developer on the <link href="http://www.sungard.com/brass/">BRASS/UMA/U2 system</link>, NASDAQ Market Maker software that processed up to 70% of the volume of the NASDAQ.</para>
         <para>All development was done in C/C++, the frontend was <link href="http://www.opengroup.org/motif/">MOTIF</link></para>
       </description>
       <projects>
-        <project title="Drip Orders">Drip Orders allowed market makers to drip large orders out to the market in small timed chunks to avoid moving the market.</project>
-        <project title="Stability Project">SDS had expanded their developer group very quickly.  Growth pains had led to spaghetti code and increasing system instability.  I led a small team to find and eliminate the instability.</project>
+        <project title="Created Drip Orders">Allowed market makers to drip large orders out to the market in small timed chunks to avoid moving the market.</project>
+        <project title="Increased Stability">Rapid growth had led to spaghettiSDS had expanded their developer group very quickly.  Growth pains had led to spaghetti code and increasing system instability.  I led a small team to find and eliminate the instability.</project>
         <project title="Time in Force">TIF issues on orders had grown more complicated and traders sought more sophisticated TIF options.  Worked with other developers to redesign the TIF code to be more extensible and handle new options with minimal development.</project>
       </projects>
       <achievements>
@@ -146,7 +172,9 @@
     </job>
     <job targets="developer" id="DataClean">
       <jobtitle>Software Developer</jobtitle>
-      <employer>University of South Carolina Computer Services Department</employer>
+      <employer>
+        <link href="http://www.it.sc.edu/division/index.shtml">University of South Carolina Computer Services Department</link>
+      </employer>
       <location>
         <city>Columbia</city>
         <state>SC</state>
@@ -166,10 +194,10 @@
         </to>
       </period>
       <description>
-        <para>The University was moving its alumni information from mainframe storage to a relational database.  I wrote datacleaning scripts to ferret out inconsistent and improbable data patterns.</para>
+        <para>SQL and GUI developer responsible for data integrity in transition of all alumni information from mainframe storage to relational databases.</para>
       </description>
       <projects>
-        <project targets="developer" title="Data Cleaning">Wrote sql scripts to find unusual data for review and PowerBuilder frontends to display results to users</project>
+        <project targets="developer" title="Created Data Cleaning Scripts">Wrote hundreds of sql data validation scripts to find unusual data for review and PowerBuilder frontends to display results to users.</project>
       </projects>
       <achievements>
         <achievement>Reduced mailing costs and increased data integrity.</achievement>
