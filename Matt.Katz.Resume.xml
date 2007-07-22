@@ -52,7 +52,7 @@
   <history>    
     <job>
       <jobtitle>Associate Vice President</jobtitle>
-      <employer><link href="http://www.primebroker.com">Banc of America Securities Prime Brokerage</link></employer>
+      <employer>Bank of America</employer>
       <location>
         <city>New York</city>
         <state>NY</state>
@@ -69,14 +69,15 @@
         </to>
       </period>
       <description>
-        <para>The BofA PrimeBrokerage has been consistently ranked #1 in technology among PB's by Hedge Fund Advisor's Magazine.</para>
-        <para>When I arrived developers were doing support work daily.  I helped build the tools for the helpdesk, a weekly support rotation, and enabled the developers to get back to development.</para>
+        <para>
+          Software developer for the <link href="http://www.primebroker.com">BofA Securities Prime Brokerage</link>, which has been consistently ranked #1 in technology among PB's by Hedge Fund Advisor's Magazine.</para>
       </description>
       <projects>
-        <project>Real Time PNL 2</project>
-        <project>Quick Trade Monitor</project>
-        <project>Support Queries Page</project>
+        <project>Created Real Time PNL 2 - Excel front end VSTO C# .Net system that provides real time profit and loss changes to hedge fund clients</project>
+        <project>Initiated, Created and Released Quick Trade Monitor - support tool for help desk to monitor EOD trade files.</project>
+        <project>Initiated, Created and Evangelized Support Queries Page - simple aspx page that reduced developer support time by 80%.</project>
         <project>Designed the first package Deployment System used to build our staging, production and development environments.</project>
+        <project>Extended Trade File Import System - built out support for Ezecastle, High Velocity Trading and other formats, built UAT environment, wrote client documentation package.</project>
       </projects>
       <achievements>
         <achievement>Initiated the project to turn Trade Process Monitoring and End of Day shutdown over to support staff. Developers were responsible for both tasks.</achievement>
