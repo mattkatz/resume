@@ -95,10 +95,12 @@
       </description>
       <projects>
         <project title="Created Real Time PNL 2">Excel front end VSTO C# .Net system that provides real time profit and loss changes to hedge fund clients.</project>
-        <project title="Initiated, Created and Released Quick Trade Monitor">Support tool for help desk to monitor EOD trade files using a Windows Forms GUI and webservices.</project>
+        <project title="Wrote Web Reports">Client side Aspx pages that queried SQL Server and output to html, Excel, or pdf</project>
+        <project title="Initiated, Created and Released Quick Trade Monitor">Support tool for help desk to monitor EOD trade files using a Windows Forms GUI and web services.</project>
         <project title="Initiated, Created and Evangelized Support Queries Page">Simple aspx page that reduced developer support time by 80%.</project>
         <project title="Created Deployment System">Used to build our staging, production and development environments from automatically built MSI files.</project>
         <project title="Extended Trade File Import System">Built out support for Ezecastle, High Velocity Trading and other formats, built UAT environment, wrote client documentation package for this C# server that imported client trades to SQL Server.</project>
+        <project title="Wrote Extensible Trade Export System">Aspx page that used stored procedures to pull data into XML transform it to client's expectations using XSL.</project>
       </projects>
       <achievements>
         <achievement>Initiated the project to turn Trade Process Monitoring and End of Day shutdown over to support staff. Developers were responsible for both tasks.</achievement>
@@ -130,10 +132,15 @@
         <para>Software developer and trade support analyst for equities trading client connectivity team on the world's <emphasis>largest</emphasis> trading floor.</para>
       </description>
       <projects>
-        <project title="Created Trading Deployment System">PERL system to do deployments and intraday 1 second failovers for the A4 high velocity trading system.</project>
         <project title="Created Program Trading Monitor">IRC and PERL bot that monitored 2 databases for Program Trading desk.</project>
+        <project title="Created Trading Deployment System">PERL system to do deployments and intraday 1 second failovers for the A4 high velocity trading system.</project>
         <project title="Supported 400 Equities Traders">From hardware to network to software to FIX messages.  Responsible for client to market trade flow.</project>
       </projects>
+      <achievements>
+        <achievement>
+          <emphasis >Best Chatbot - UBS Global Equities</emphasis>. To further the use of internal chat software, UBS created a contest for work related chatbots. My IRC bot was used by the program trading team to monitor the progress of sensitive VWAP trades.  It connected to the backends of multiple trading systems, alerting traders and support staff of problems.  This bot freed up 1 full support staff.
+        </achievement>
+      </achievements>
     </job>
     <job targets="developer" id="UmaDev">
       <jobtitle>Software Developer</jobtitle>
@@ -208,17 +215,17 @@
 
   
   <awards><title>Honors and Recognition</title>
-    <award targets="developer"><title>Best Chatbot - UBS Global Equities</title>
-      <description>
-        <para>To further the use of internal chat software, UBS created a contest for work related chatbots.</para> 
-        <para>My IRC bot was used by the program trading team to monitor the progress of sensitive VWAP trades.  It connected to the backends of multiple trading systems, alerting traders and support staff of problems.  This bot freed up 1 full support staff.</para>
-      </description>
+    <award>
+      <title>CEDA SEC JV Debate Championship</title>
+      <date>
+        <year>1998</year>
+      </date>
     </award>
     <award>
-      <title>CEDA SEC JV Debate Championship - 1998</title>  
-    </award>
-    <award>
-      <title>SC State Debate Champion - 1995</title>
+      <title>SC State Debate Championship</title>
+      <date>
+        <year>1995</year>
+      </date>
     </award>
   </awards>
 
