@@ -28,6 +28,16 @@ elseif('xml' == $style)
 	//if you were going for speed you'd just output xml and skip this transform step
 	$xsl->load('./xsl/output/identity.xsl');
 }
+elseif('doc' == $style)
+{
+	//send html as a doc header
+	header('Content-Type: text/doc');
+	// It will be called resume.doc
+	header('Content-Disposition: attachment; filename="Matt.Katz.Resume.doc"');
+	//send html
+	$xsl->load('./xsl/output/us-html.xsl');
+
+}
 else
 {
 	//send xml, but without a content type
