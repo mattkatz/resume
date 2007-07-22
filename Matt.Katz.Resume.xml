@@ -103,6 +103,9 @@
         <project title="Extended Trade File Import System">Built out support for Ezecastle, High Velocity Trading and other formats, built UAT environment, wrote client documentation package for this C# server that imported client trades to SQL Server.</project>
         <project title="Wrote Extensible Trade Export System">Aspx page that used stored procedures to pull data into XML transform it to client's expectations using XSL.</project>
       </projects>
+      <achievements>
+        <achievement>Developed Real Time PNL 2 in 6 months with 75% resources.  PNL2 supports 6000 simultaneous positions with real time pricing.</achievement>
+      </achievements>
     </job>
     <job>
       <jobtitle targets="support,management">Trade Support Analyst</jobtitle>
@@ -168,8 +171,9 @@
       </description>
       <projects>
         <project title="Created Drip Orders">Allowed market makers to drip large orders out to the market in small timed chunks to avoid moving the market.</project>
-        <project title="Increased Stability">Rapid growth had led to spaghettiSDS had expanded their developer group very quickly.  Growth pains had led to spaghetti code and increasing system instability.  I led a small team to find and eliminate the instability.</project>
-        <project title="Time in Force">TIF issues on orders had grown more complicated and traders sought more sophisticated TIF options.  Worked with other developers to redesign the TIF code to be more extensible and handle new options with minimal development.</project>
+        <project title="Increased Stability">Led small team to perform code and core dump analysis. Simplified code, reduced instability and increased customer satisfaction.</project>
+        <project title="Simplified Time in Force Code">Used Object Oriented Programming to simplify and centralize TIF code.  Reduced related lines of code by 50%.</project>
+        <project title="Performed Bug Fixes">Wrote various bug fixes and customer requested enhancements.</project>
       </projects>
       <achievements>
         <achievement>Increased core stability of the system, hunting down the top instability issues.</achievement>
