@@ -47,37 +47,65 @@
       </skillset>
     </skillarea>
 
-  <history>
-    <job targets="developer" id="DataClean">
+  <history>    
+    <job>
       <jobtitle>Software Developer</jobtitle>
-      <employer>University of South Carolina Computer Services Department</employer>
+      <employer><link href="http://www.primebroker.com">Banc of America Securities Prime Brokerage</link></employer>
       <location>
-        <city>Columbia</city>
-        <state>SC</state>
+        <city>New York</city>
+        <state>NY</state>
       </location>
       <period>
         <from>
           <date>
-            <month>June</month>
-            <year>2000</year>
+            <month>April</month>
+            <year>2004</year>
+          </date>
+        </from>
+        <to>
+          <present/>
+        </to>
+      </period>
+      <description>
+        <para>The BofA PrimeBrokerage has been consistently ranked #1 in technology among PB's by Hedge Fund Advisor's Magazine.</para>
+        <para>When I arrived it was integrating with the bank and developers were doing the majority of the support work.</para>
+      </description>
+      <projects>
+        <project>User Experience Design for Real Time PNL 2</project>
+        <project>Quick Trade Monitor</project>
+        <project>Support Queries Page</project>
+        <project>Designed the first package Deployment System used to build our staging, production and development environments.</project>
+      </projects>
+      <achievements>
+        <achievement>Initiated the project to turn Trade Process Monitoring and End of Day shutdown over to support staff. Developers were responsible for both tasks.</achievement>
+        <achievement>Created support queries site that allowed developers to quickly turn over DB based supprt tasks to support staff.</achievement>
+      </achievements>
+    </job>
+    <job>
+      <jobtitle targets="support,management">Trade Support Analyst</jobtitle>
+      <employer>UBS</employer>
+      <location>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>March</month>
+            <year>2002</year>
           </date>
         </from>
         <to>
           <date>
-            <month>January</month>
-            <year>2001</year>
+            <month>March</month>
+            <year>2004</year>
           </date>
         </to>
       </period>
-      <description>
-        <para>The University was moving its alumni information from mainframe storage to a relational database.  I wrote datacleaning scripts to ferret out inconsistent and improbable data patterns.</para>
-      </description>
       <projects>
-        <project targets="developer" title="Data Cleaning">Wrote sql scripts to find unusual data for review and PowerBuilder frontends to display results to users</project>
+        <project title="Deployment System">The A4 trading system deployments were done by hand, taking hours.  I found the common components and produced an automatic deployment/rollback system written in PERL</project>
+        <project title="Program Trading Monitor">While developers worked to increase stability, I wrote a system to monitor all endpoints and report inconsistencies in trade flow.  This meant traders didn't have to hear about problems from clients, the support team could anticipate the problems.</project>
       </projects>
-      <achievements>
-        <achievement>Reduced mailing costs and increased data integrity.</achievement>
-      </achievements>
     </job>
     <job targets="developer" id="UmaDev">
       <jobtitle>Software Developer</jobtitle>
@@ -113,65 +141,38 @@
         <achievement>Increased core stability of the system, hunting down the top instability issues.</achievement>
       </achievements>
     </job>
-    <job>
-      <jobtitle targets="support,management">Trade Support Analyst</jobtitle>
-      <employer>UBS</employer>
-      <location>
-        <city>Stamford</city>
-        <state>Connecticut</state>
-      </location>
-      <period>
-        <from>
-          <date>
-            <month>March</month>
-            <year>2002</year>
-          </date>
-        </from>
-        <to>
-          <date>
-            <month>March</month>
-            <year>2004</year>
-          </date>
-        </to>
-      </period>
-      <projects>
-        <project title="Deployment System">The A4 trading system deployments were done by hand, taking hours.  I found the common components and produced an automatic deployment/rollback system written in PERL</project>
-        <project title="Program Trading Monitor">While developers worked to increase stability, I wrote a system to monitor all endpoints and report inconsistencies in trade flow.  This meant traders didn't have to hear about problems from clients, the support team could anticipate the problems.</project>
-      </projects>
-    </job>
-    <job>
+    <job targets="developer" id="DataClean">
       <jobtitle>Software Developer</jobtitle>
-      <employer><link href="http://www.primebroker.com">Banc of America Securities Prime Brokerage</link></employer>
+      <employer>University of South Carolina Computer Services Department</employer>
       <location>
-        <city>New York</city>
-        <state>NY</state>
+        <city>Columbia</city>
+        <state>SC</state>
       </location>
       <period>
         <from>
           <date>
-            <month>April</month>
-            <year>2004</year>
+            <month>June</month>
+            <year>2000</year>
           </date>
         </from>
         <to>
-          <present/>
+          <date>
+            <month>January</month>
+            <year>2001</year>
+          </date>
         </to>
       </period>
       <description>
-        <para>The BofA PrimeBrokerage has been consistently ranked #1 in technology among PB's by Hedge Fund Advisor's Magazine.</para>
-        <para>When I arrived it was integrating with the bank and developers were doing the majority of the support work.</para>
+        <para>The University was moving its alumni information from mainframe storage to a relational database.  I wrote datacleaning scripts to ferret out inconsistent and improbable data patterns.</para>
       </description>
       <projects>
-        <project>User Experience Design for Real Time PNL 2</project>
-        <project>Quick Trade Monitor</project>
-        <project>Support Queries Page</project>
-        <project>Designed the first package Deployment System used to build our staging, production and development environments.</project>
+        <project targets="developer" title="Data Cleaning">Wrote sql scripts to find unusual data for review and PowerBuilder frontends to display results to users</project>
       </projects>
       <achievements>
-        <achievement>Initiated the project to turn Trade Process Monitoring and End of Day shutdown over to support staff. Developers were responsible for both tasks.</achievement>
-        <achievement>Created support queries site that allowed developers to quickly turn over DB based supprt tasks to support staff.</achievement>
+        <achievement>Reduced mailing costs and increased data integrity.</achievement>
       </achievements>
     </job>
+
   </history>
 
   
