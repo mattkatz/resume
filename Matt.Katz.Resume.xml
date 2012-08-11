@@ -96,9 +96,9 @@
       </description>
       <projects>
         <project title="Designed iPad App">Featured in COO Connect and Global Custodian in July 2012.</project>
-        <project title="Created Client Facing Technology Docs">Designed and wrote guide to working with PB web services for clients, welcome packet, PB Technology Newsletter, marketing brochures, client updates, guide to reports, etc. Guided from conception through execution.</project>
         <project title="Onboarded High Value Clients">Primary technology representative during sales and onboarding for the group's most valuable clients. Designed, organized and implemented custom solutions to fit client needs for $1 billion+ hedge funds.</project>
         <project title="Managed Technology Rollout">Business had poor viisibility into what was being rolled out when. Changed culture and process to serve both groups better.  Planned and managed rollout of new PB Portal, Corporate Actions Portal, Wire Transfers, SMART Risk, Margin Reporting, International PB, and Securities Lending.</project>
+        <project title="Created Client Facing Technology Docs">Designed and wrote guide to working with PB web services for clients, welcome packet, PB Technology Newsletter, marketing brochures, client updates, guide to reports, etc. Guided from conception through execution.</project>
 
         <project title="Managed Backend Transition for BOFA to BNPP sale">During transition from BofA to BNPP, transitioned over a hundred backend reports.</project>
       </projects>
@@ -252,6 +252,13 @@
 
   
   <awards><title>Honors and Recognition</title>
+    <award>
+      <title>NYC Music Hack Day: MusixMatch trip to Italy</title>
+      <description>Proposed, organized and led Team Valentunes to create a site that finds songs to serenade your sweetheard, then calls them and plays them the playlist.  Django based site and iPhone app completed in 24 hours.</description>
+      <date>
+        <year>2011</year>
+      </date>
+    </award>
     <award>
       <title>CEDA SEC JV Debate Championship</title>
       <date>
