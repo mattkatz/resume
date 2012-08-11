@@ -264,6 +264,9 @@
     <award>
       <title>WIRED: Best Short Story for "How to Safely Live on in a Science Fiction World"</title>
       <description>Charles Yu and Wired held a contest to win the all-metal version of his debut novel. <link href="http://www.morelightmorelight.com/2010/10/01/how-to-safely-win-an-impossible-book/">I won the contest with an auto-illustrating short story.</link></description>
+      <date>
+        <year>2010</year>
+      </date>
     </award>
     <award>
       <title>CEDA SEC JV Debate Championship</title>
@@ -278,6 +281,14 @@
       </date>
     </award>
   </awards>
+  <pubs>
+    <pub>
+      <artTitle>How to Make Your Own Engagement Ring</artTitle>
+      <bookTitle>Gizmodo.com</bookTitle>
+      <url>http://gizmodo.com/5616983/how-to-make-your-own-engagement-ring</url>
+      <para>I announced our engagement and elopement on my website with three articles: How to keep a secret, How to make an engagement ring, and How to elope.  They were cited by the DIY community including Make Magazine and the How to make an engagement ring article was republished by Gizmodo.</para>
+    </pub>
+  </pubs>
 
 
 
