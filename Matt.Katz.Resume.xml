@@ -23,7 +23,7 @@
   </header>
 
   <objective targets="developer">
-    <para>To write powerful software that frees humans to work on interesting problems.</para>
+    <para>Computers should invisibly handle uninteresting work so that we can work on interesting and difficult problems.  I make sure that they are doing their job in a way that helps us do ours.</para>
   </objective>
     <skillarea targets="developer">
       <title>Programming</title>
