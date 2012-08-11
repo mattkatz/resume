@@ -37,6 +37,7 @@
           <skill>XML</skill>
           <skill>XSL</skill>
           <skill>Ruby on Rails</skill>
+          <skill>Python</skill>
           <skill>PHP</skill>
           <skill>SQL</skill>
       </skillset>
@@ -45,7 +46,6 @@
         <skill>SQL Server</skill>
         <skill>VS 2005</skill>
         <skill>XML Spy</skill>
-	<skill>PDF Generation</skill>
       </skillset>
       <skillset>
         <title>GUI Design</title>
@@ -73,6 +73,29 @@
   </skillarea>
   <history>    
     <job>
+      <jobtitle>Vice President</jobtitle>
+      <employer>
+        <link href="http://www.primebroker.com/">BNP Paribas Prime Brokerage</link></employer>
+      <location>
+        <city>New York</city>
+        <state>NY</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>October</month>
+            <year>2008</year>
+          </date>
+        </from>
+        <to>
+          <present/>
+        </to>
+      </period>
+      <description>
+        <para>VP of Client Facing Technology, driving technology innovation, client onboarding and satisfaction and representing clients in technology.  Travelled to regional offices to visit clients to maintain relationships and drive sales.</para>
+      </description>
+    </job>
+    <job>
       <jobtitle>Associate Vice President</jobtitle>
       <employer>
         <link href="http://www.bankofamerica.com">Bank of America</link></employer>
@@ -88,7 +111,10 @@
           </date>
         </from>
         <to>
-          <present/>
+          <date>
+            <month>October</month>
+            <year>2008</year>
+          </date>
         </to>
       </period>
       <description>
@@ -269,32 +295,4 @@
     </interest>
   </interests>
 
-  <referees>
-    <referee>
-      <name>
-	<firstname>Dave</firstname>
-	<surname>Neigler</surname>
-      </name>
-      <title>Development Manager</title>
-      <organization>SAC Capital</organization>
-      <contact>
-	<phone>917.710.1214</phone>
-        <email>dneigler@gmail.com</email>
-        <url>http://snappynat.com/blog</url>
-	    </contact>
-    </referee>
-    <referee>
-      <name>
-      	<firstname>Chris</firstname>
-      	<surname>Acton</surname>
-      </name>
-      <title>Developer</title>
-      <organization>Sungard Data Systems
-      </organization>
-      <contact>
-        <phone>585.843.8472</phone>
-      </contact>
-    </referee>
-    <!-- Add in John Vivenzio, Phil Sicard, Dan Pense, Phil Little, Jamie McDonald, Bill Soudan-->
-  </referees>
 </resume>
