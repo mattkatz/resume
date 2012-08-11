@@ -253,11 +253,15 @@
   
   <awards><title>Honors and Recognition</title>
     <award>
-      <title>NYC Music Hack Day: MusixMatch trip to Italy</title>
-      <description>Proposed, organized and led Team Valentunes to create a site that finds songs to serenade your sweetheard, then calls them and plays them the playlist.  Django based site and iPhone app completed in 24 hours.</description>
+      <title>NYC Music Hack Day: Best use of MusixMatch API</title>
+      <description>Proposed, organized and led Team Valentunes to create a site that finds songs to serenade your sweetheard, then calls them and plays them the playlist.  Django based site and iPhone app completed in 24 hours from pitch to working demo. Won the MusixMatch best api use award: a trip to Italy.</description>
       <date>
         <year>2011</year>
       </date>
+    </award>
+    <award>
+      <title>WIRED: Best Short Story for "How to Safely Live on in a Science Fiction World"</title>
+      <description>Charles Yu and Wired held a contest to win the all-metal version of his debut novel. <link href="http://www.morelightmorelight.com/2010/10/01/how-to-safely-win-an-impossible-book/">I won the contest with an auto-illustrating short story.</link></description>
     </award>
     <award>
       <title>CEDA SEC JV Debate Championship</title>
