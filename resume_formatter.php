@@ -3,7 +3,7 @@
 $style = $_GET['style'];
 //load up the resume
 $xml_doc = new DOMDocument;
-$xml_doc->load('./Matt.Katz.Resume.xml');
+$xml_doc->load('http://svn.morelightmorelight.com/trunk/personal/Resume//Matt.Katz.Resume.xml');
 $xp = new XsltProcessor();
 
 // create a DOM document for   the XSL stylesheet
