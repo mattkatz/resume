@@ -22,11 +22,9 @@
     </contact>
   </header>
 
-  <objective targets="developer">
+  <objective targets="cto,developer">
     <para>Computers should invisibly handle uninteresting work so that we can work on interesting and difficult problems.  I make sure that they are doing their job in a way that helps us do ours.</para>
-  </objective>
-  <objective targets="cto">
-    <para>Lead teams to focus on interesting problems that yield big wins. Automate away uninteresting work and focus time where it provides tangible rewards.</para>
+    <para>I lead teams to focus on interesting problems that yield big wins. We automate away uninteresting work and focus time where it provides tangible rewards.</para>
   </objective>
     <skillarea targets="developer">
       <title>Programming</title>
@@ -74,6 +72,17 @@
       <skill>Trader Interaction</skill>
       <skill>Trading Floor Experience</skill>
       <skill>Prime Brokerage</skill>
+    </skillset>
+  </skillarea>
+  <skillarea>
+    <title>Open Source</title>
+    <skillset>
+      <title>Past Projects</title>
+      <skill>Project Lead on <link href="http://github.com/mattkatz/Wordprss">WordPrss</link>, a feed reader plugin for Wordpress.</skill>
+      <skill>Featured on <link href="http://www.openprocessing.org/user/647">Open Processing</link> for several photo art sketches.</skill>
+      <skill>Proposed, designed, and coded <link href="http://wiki.musichackday.org/index.php?title=ValenTun.es">Valentun.es</link> for NYC MusicHackDay, leading a team of 7. Valentun.es, a way to send a playlist over a phone, was written in Django/Python in 24 hours and won the MusixMatch prize.</skill>
+      <skill>Maintainer on <link href="http://ditz.rubyforge.org/">Ditz</link>, a distributed bug tracker written in Ruby.</skill>
+      <skill>One of the original developers on the hibernating  <link href="http://add-art.org">Add-art Firefox plugin</link>.</skill>
     </skillset>
   </skillarea>
   <history>    
