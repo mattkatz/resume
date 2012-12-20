@@ -25,6 +25,9 @@
   <objective targets="developer">
     <para>Computers should invisibly handle uninteresting work so that we can work on interesting and difficult problems.  I make sure that they are doing their job in a way that helps us do ours.</para>
   </objective>
+  <objective targets="cto">
+    <para>Lead teams to focus on interesting problems that yield big wins. Automate away uninteresting work and focus time where it provides tangible rewards.</para>
+  </objective>
     <skillarea targets="developer">
       <title>Programming</title>
       <skillset>
