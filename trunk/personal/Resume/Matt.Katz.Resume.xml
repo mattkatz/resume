@@ -324,12 +324,6 @@
 	  <year>2000</year>
 	</date>
 	<institution>Univeristy of South Carolina</institution>
-        <gpa type="major">
-          <score> 3.9</score>
-          <note>
-            <para>In major with weighting for honors courses.</para>
-          </note>
-        </gpa>
       </degree>
     </degrees>
   </academics>
