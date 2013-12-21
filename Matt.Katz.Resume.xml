@@ -89,12 +89,12 @@
     <title>Open Source</title>
     <skillset>
       <title>Past Projects</title>
-      <skill>Project Lead on <link href="http://github.com/mattkatz/Wordprss">WordPrss</link>, a feed reader plugin for Wordpress.</skill>
-      <skill>Wireframes and design on <link href="http://alarm.mttktz.com">There on Time</link>, a commuter alarm clock.</skill>
-      <skill>Featured on <link href="http://www.openprocessing.org/user/647">Open Processing</link> for several photo art sketches.</skill>
-      <skill>Proposed, designed, and coded <link href="http://wiki.musichackday.org/index.php?title=ValenTun.es">Valentun.es</link> for NYC MusicHackDay, leading a team of 7. Valentun.es, a way to send a playlist over a phone, was written in Django/Python in 24 hours and won the MusixMatch prize.</skill>
-      <skill>Maintainer on <link href="http://ditz.rubyforge.org/">Ditz</link>, a distributed bug tracker written in Ruby.</skill>
-      <skill>One of the original developers on the hibernating  <link href="http://add-art.org">Add-art Firefox plugin</link>.</skill>
+      <skill>Project Lead on <link href="http://github.com/mattkatz/Wordprss">WordPrss</link>, a feed reader plugin for Wordpress</skill>
+      <skill>Wireframes and design on <link href="http://alarm.mttktz.com">There on Time</link>, a commuter alarm clock</skill>
+      <skill>Featured on <link href="http://www.openprocessing.org/user/647">Open Processing</link> for several photo art sketches</skill>
+      <skill>Proposed, designed, and coded <link href="http://wiki.musichackday.org/index.php?title=ValenTun.es">Valentun.es</link> for NYC MusicHackDay, leading a team of 7. Valentun.es, a way to send a playlist over a phone, was written in Django/Python in 24 hours and won the MusixMatch prize</skill>
+      <skill>Maintainer on <link href="http://ditz.rubyforge.org/">Ditz</link>, a distributed bug tracker written in Ruby</skill>
+      <skill>One of the original developers on the hibernating  <link href="http://add-art.org">Add-art Firefox plugin</link></skill>
     </skillset>
   </skillarea>
   <history>    
