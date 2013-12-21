@@ -45,6 +45,7 @@
           <skill>SQL</skill>
           <skill>Android Development</skill>
           <skill>VB</skill>
+          <skill>Processing</skill>
       </skillset>
       <skillset>
         <title>Tools</title>
@@ -97,7 +98,37 @@
   </skillarea>
   <history>    
     <job>
-      <jobtitle>Vice President</jobtitle>
+      <jobtitle>Vice President - Head of Mobile Development</jobtitle>
+      <employer>
+        <link href="http://www.primebroker.com/">BNP Paribas Prime Brokerage</link></employer>
+      <location>
+        <city>New York</city>
+        <state>NY</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>January</month>
+            <year>2013</year>
+          </date>
+        </from>
+        <to>
+          <date>
+            <month>June</month>
+            <year>2013</year>
+          </date>
+        </to>
+      </period>
+      <description>
+        <para>Managed the Mobile Design and Development team, reorganized iPad App development, managed development resources and implemented features.</para>
+      </description>
+      <projects>
+        <project title="Initiated Single Stock and Basket trading implementation for iPad">Managed implementation and contributed to iOS development. Worked with clients and business to test concepts. Worked with IT Security, Legal and Compliance to clear path for new features. Presented and got approval from Executive Committee.</project>
+        <project title="Improved Development Best Practices">Reorganized team to provide proper source control under Git, generated documentation with AppleDoc and a testing and deployment pattern with TestFlight. Transformed the project from multiple single-points-of-failure to be supportable and maintainable.</project>
+      </projects>
+    </job>
+    <job>
+      <jobtitle>Vice President - Client Facing Technology</jobtitle>
       <employer>
         <link href="http://www.primebroker.com/">BNP Paribas Prime Brokerage</link></employer>
       <location>
@@ -112,18 +143,21 @@
           </date>
         </from>
         <to>
-          <present/>
+          <date>
+            <month>December</month>
+            <year>2012</year>
+          </date>
         </to>
       </period>
       <description>
-        <para>VP of Client Facing Technology, driving technology innovation, client onboarding and satisfaction and representing clients in technology.  Travelled to regional offices to visit clients to maintain relationships and drive sales.  BNPP PB ranked #1 in total Global Custodian Prime Brokerage Survey 2012.</para>
+        <para>As lead Client Technology Relationship manager, drove technology innovation, client onboarding and satisfaction by representing clients in technology.  Travelled to regional offices to visit clients to maintain relationships and drive sales.  BNPP PB ranked #1 in total Global Custodian Prime Brokerage Survey 2012.</para>
       </description>
       <projects>
         <project title="Designed iPad App">Featured in COO Connect and Global Custodian in July 2012.</project>
+        <project title="Redesigned Public Facing Website">With constrained resources implemented a 2 phase deployment, wrote lead collection teaser form.</project>
         <project title="Onboarded High Value Clients">Primary technology representative during sales and onboarding for the group's most valuable clients. Designed, organized and implemented custom solutions to fit client needs for $1 billion+ hedge funds.</project>
-        <project title="Managed Technology Rollout">Business had poor viisibility into what was being rolled out when. Changed culture and process to serve both groups better.  Planned and managed rollout of new PB Portal, Corporate Actions Portal, Wire Transfers, SMART Risk, Margin Reporting, International PB, and Securities Lending.</project>
+        <project title="Managed Technology Rollout">Business had poor visibility into what was being rolled out when. Changed culture and process to serve both groups better.  Planned and managed rollout of new PB Portal, Corporate Actions Portal, Wire Transfers, SMART Risk, Margin Reporting, International PB, and Securities Lending.</project>
         <project title="Created Client Facing Technology Docs">Designed and wrote guide to working with PB web services for clients, welcome packet, PB Technology Newsletter, marketing brochures, client updates, guide to reports, etc. Guided from conception through execution.</project>
-
         <project title="Managed Backend Transition for BOFA to BNPP sale">During transition from BofA to BNPP, transitioned over a hundred backend reports.</project>
       </projects>
     </job>
@@ -151,7 +185,7 @@
       </period>
       <description>
         <para>
-          Software developer for the <link href="http://www.primebroker.com">BofA Securities Prime Brokerage</link>, which has been consistently ranked #1 in technology among PB's in the <link href="http://home.globalcustodian.com">Global Custodian Prime Brokerage Survey</link>.</para>
+          Software developer for the <link href="http://www.primebroker.com">BofA Securities Prime Brokerage</link>, which was consistently ranked #1 in technology among PB's in the <link href="http://home.globalcustodian.com">Global Custodian Prime Brokerage Survey</link>.</para>
       </description>
       <projects>
         <project title="Created Real Time PNL 2">Excel front end VSTO C# .Net system that provides real time profit and loss changes to hedge fund clients.</project>
