@@ -35,6 +35,8 @@
           <skill>C++</skill>
           <skill>PERL</skill>
           <skill>JavaScript</skill>
+          <skill>HTML5</skill>
+          <skill>CSS3</skill>
           <skill>XML</skill>
           <skill>XSL</skill>
           <skill>Ruby on Rails</skill>
@@ -51,6 +53,9 @@
           <skill>SQL Server</skill>
           <skill>Visual Studio</skill>
           <skill>XML Spy</skill>
+          <skill>jQuery</skill>
+          <skill>AngularJS</skill>
+          <skill>EmberJS</skill>
           <skill>Excel</skill>
           <skill>Subversion</skill>
       </skillset>
