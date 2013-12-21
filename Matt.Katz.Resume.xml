@@ -407,6 +407,18 @@
         <para>PADI Certified Open Water Diver</para>
       </description>
     </interest>
+    <interest>
+      <title>Woodworking</title>
+      <description>
+        <para>Furniture design and construction</para>
+      </description>
+    </interest>
+    <interest>
+      <title>Homebrewing</title>
+      <description>
+        <para>Small batch beer brewing</para>
+      </description>
+    </interest>
   </interests>
 
 </resume>
