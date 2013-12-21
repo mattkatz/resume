@@ -98,6 +98,37 @@
   </skillarea>
   <history>    
     <job>
+      <jobtitle>Vice President - Product Development</jobtitle>
+      <employer>
+        <link href="http://corp.bankofamerica.com/business/ci/prime-brokerage">Bank of America Merrill Lynch</link></employer>
+      <location>
+        <city>New York</city>
+        <state>NY</state>
+      </location>
+      <period>
+        <from>
+          <date>
+            <month>August</month>
+            <year>2013</year>
+          </date>
+        </from>
+        <to>
+          <present/>
+        </to>
+      </period>
+      <description>
+        <para>As lead of Product Development for Reporting:</para>
+      </description>
+      <projects>
+        <project title="Cost Cutting">Organization and design of plan for decommissioning a redundant reporting facility and security master, for multi-million dollar cost savings.</project>
+        <project title="Operational Tools">Worked with senior management to define requirements and mockup for new operational dashboards.</project>
+        <project title="Reporting Business Requirements">Designed swap and equity report integration, extracts for dividend and coupon accruals.</project>
+        <project title="Reporting Wiki">Initiated, planned and created new Reporting Wiki, giving business documentation on major client reports and extracts for the first time in years, up to date sales report demonstration docs, and integrating with client on boarding tools. Dead documents were changed to Living documents integrated into the development and release workflow.</project>
+        <project title="Report Reruns">Designed new Reporting workflows for correct report reruns, led UAT effort.</project>
+        <project title="Standardization">Standardized presentation of currencies, dates, times, report names, and extract report structure.</project>
+      </projects>
+    </job>
+    <job>
       <jobtitle>Vice President - Head of Mobile Development</jobtitle>
       <employer>
         <link href="http://www.primebroker.com/">BNP Paribas Prime Brokerage</link></employer>
