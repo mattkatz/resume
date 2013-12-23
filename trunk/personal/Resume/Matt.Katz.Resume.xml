@@ -339,12 +339,10 @@
     </job>
 
   </history>
-
-  
   <awards><title>Honors and Recognition</title>
     <award>
       <title>NYC Music Hack Day: Best use of MusixMatch API</title>
-      <description>Proposed, organized and led Team Valentunes to create a site that finds songs to serenade your sweetheard, then calls them and plays them the playlist.  Django based site and iPhone app completed in 24 hours from pitch to working demo. Won the MusixMatch best api use award: a trip to Italy.</description>
+      <description>Proposed, organized and led Team Valentunes to create a site that finds songs to serenade your sweetheart, then calls them and plays them the playlist.  Django based site and iPhone app completed in 24 hours from pitch to working demo. Won the MusixMatch best api use award: a trip to Italy.</description>
       <date>
         <year>2011</year>
       </date>
