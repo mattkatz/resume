@@ -124,7 +124,7 @@
         <project title="Infrastructure">Revamped development process to include centralized issue tracking, estimation on efforts, on-time delivery and revamping and refactoring of old projects for speed and efficiency. Instituted practice of documenting decisions and new procedures.</project>
         <project title="Support">Improved rotational support and the ability for developers to assist in each others projects, breaking silos.</project>
         <project title="Hiring">Revamped technical hiring process, training employees on how to interview and evangelizing proper code tests for prospects.</project>
-        <project title="External Liason">Liased to external vendors and technical providers including Admiral & Silverline.</project>
+        <project title="External Liason">Liased to external vendors and technical providers including Admiral and Silverline.</project>
         <project title="Legacy management">Took over legacy projects without current dev lead, brought up to spec and made them supportable.</project>
       </projects>
     </job>
