@@ -94,7 +94,7 @@
       <skill>Featured on <link href="http://www.openprocessing.org/user/647">Open Processing</link> for several photo art sketches</skill>
       <skill>Proposed, designed, and coded <link href="http://wiki.musichackday.org/index.php?title=ValenTun.es">Valentun.es</link> for NYC MusicHackDay, leading a team of 7. Valentun.es, a way to send a playlist over a phone, was written in Django/Python in 24 hours and won the MusixMatch prize</skill>
       <skill>Maintainer on <link href="http://ditz.rubyforge.org/">Ditz</link>, a distributed bug tracker written in Ruby</skill>
-      <skill>One of the original developers on the hibernating  <link href="http://add-art.org">Add-art Firefox plugin</link></skill>
+      <skill>One of the original developers on the <link href="http://add-art.org">Add-art plugin</link></skill>
     </skillset>
   </skillarea>
   <history>    
@@ -126,7 +126,7 @@
         <project title="Hiring">Revamped technical hiring process, training employees on how to interview and evangelizing proper code tests for prospects across the bank. Initiated Development Summer Intern program.</project>
         <project title="External Liason">Liased to external vendors and technical providers including Admiral, Workday, EvalueServe, Geneva, Bloomberg PolarLake, One Source Virtual and Silverline.</project>
         <project title="Legacy management">Took over legacy projects without current dev lead, brought up to spec and made them supportable.</project>
-        <project title="SalesForce">Launched multiple new SF orgs, with custom VisualForce pages and integrations with internal systems.</project>
+        <project title="SalesForce">Launched multiple new SF orgs, with custom VisualForce pages and integrations with internal systems. Set up video training project to for new hire onboarding</project>
         <project title="Workday">Managed the launch of Workday and decommission of home-grown internal HR system. Assumed the Integration and Security administrator roles.</project>
         <project title="Maestro">Decreased developer support time by launching an .Net MVC/Angular.JS/Microservice based portal for the business to manage processes directly. </project>
       </projects>
